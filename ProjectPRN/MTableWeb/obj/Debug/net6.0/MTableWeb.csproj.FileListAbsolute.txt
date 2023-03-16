@@ -1,0 +1,129 @@
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\appsettings.Development.json
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\appsettings.json
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\MTableWeb.staticwebassets.runtime.json
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\MTableWeb.exe
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\MTableWeb.deps.json
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\MTableWeb.runtimeconfig.json
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\MTableWeb.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\MTableWeb.pdb
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\Humanizer.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\obj\Debug\net6.0\MTableWeb.csproj.AssemblyReference.cache
+D:\lap trinh web\ProjectPRN\MTableWeb\obj\Debug\net6.0\MTableWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\lap trinh web\ProjectPRN\MTableWeb\obj\Debug\net6.0\MTableWeb.AssemblyInfoInputs.cache
+D:\lap trinh web\ProjectPRN\MTableWeb\obj\Debug\net6.0\MTableWeb.AssemblyInfo.cs
+D:\lap trinh web\ProjectPRN\MTableWeb\obj\Debug\net6.0\MTableWeb.csproj.CoreCompileInputs.cache
+D:\lap trinh web\ProjectPRN\MTableWeb\obj\Debug\net6.0\MTableWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\lap trinh web\ProjectPRN\MTableWeb\obj\Debug\net6.0\MTableWeb.RazorAssemblyInfo.cache
+D:\lap trinh web\ProjectPRN\MTableWeb\obj\Debug\net6.0\MTableWeb.RazorAssemblyInfo.cs
+D:\lap trinh web\ProjectPRN\MTableWeb\obj\Debug\net6.0\staticwebassets.build.json
+D:\lap trinh web\ProjectPRN\MTableWeb\obj\Debug\net6.0\staticwebassets.development.json
+D:\lap trinh web\ProjectPRN\MTableWeb\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\lap trinh web\ProjectPRN\MTableWeb\obj\Debug\net6.0\scopedcss\bundle\MTableWeb.styles.css
+D:\lap trinh web\ProjectPRN\MTableWeb\obj\Debug\net6.0\scopedcss\projectbundle\MTableWeb.bundle.scp.css
+D:\lap trinh web\ProjectPRN\MTableWeb\obj\Debug\net6.0\MTableWeb.csproj.CopyComplete
+D:\lap trinh web\ProjectPRN\MTableWeb\obj\Debug\net6.0\MTableWeb.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\obj\Debug\net6.0\refint\MTableWeb.dll
+D:\lap trinh web\ProjectPRN\MTableWeb\obj\Debug\net6.0\MTableWeb.pdb
+D:\lap trinh web\ProjectPRN\MTableWeb\obj\Debug\net6.0\MTableWeb.genruntimeconfig.cache
+D:\lap trinh web\ProjectPRN\MTableWeb\obj\Debug\net6.0\ref\MTableWeb.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\appsettings.Development.json
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\appsettings.json
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\MTableWeb.staticwebassets.runtime.json
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\MTableWeb.exe
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\MTableWeb.deps.json
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\MTableWeb.runtimeconfig.json
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\MTableWeb.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\MTableWeb.pdb
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\Humanizer.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\obj\Debug\net6.0\MTableWeb.csproj.AssemblyReference.cache
+D:\Coures\PRN211\ProjectPRN\MTableWeb\obj\Debug\net6.0\MTableWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coures\PRN211\ProjectPRN\MTableWeb\obj\Debug\net6.0\MTableWeb.AssemblyInfoInputs.cache
+D:\Coures\PRN211\ProjectPRN\MTableWeb\obj\Debug\net6.0\MTableWeb.AssemblyInfo.cs
+D:\Coures\PRN211\ProjectPRN\MTableWeb\obj\Debug\net6.0\MTableWeb.csproj.CoreCompileInputs.cache
+D:\Coures\PRN211\ProjectPRN\MTableWeb\obj\Debug\net6.0\MTableWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\Coures\PRN211\ProjectPRN\MTableWeb\obj\Debug\net6.0\MTableWeb.RazorAssemblyInfo.cache
+D:\Coures\PRN211\ProjectPRN\MTableWeb\obj\Debug\net6.0\MTableWeb.RazorAssemblyInfo.cs
+D:\Coures\PRN211\ProjectPRN\MTableWeb\obj\Debug\net6.0\staticwebassets\msbuild.MTableWeb.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Coures\PRN211\ProjectPRN\MTableWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.MTableWeb.props
+D:\Coures\PRN211\ProjectPRN\MTableWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MTableWeb.props
+D:\Coures\PRN211\ProjectPRN\MTableWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MTableWeb.props
+D:\Coures\PRN211\ProjectPRN\MTableWeb\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Coures\PRN211\ProjectPRN\MTableWeb\obj\Debug\net6.0\staticwebassets.build.json
+D:\Coures\PRN211\ProjectPRN\MTableWeb\obj\Debug\net6.0\staticwebassets.development.json
+D:\Coures\PRN211\ProjectPRN\MTableWeb\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Coures\PRN211\ProjectPRN\MTableWeb\obj\Debug\net6.0\scopedcss\bundle\MTableWeb.styles.css
+D:\Coures\PRN211\ProjectPRN\MTableWeb\obj\Debug\net6.0\scopedcss\projectbundle\MTableWeb.bundle.scp.css
+D:\Coures\PRN211\ProjectPRN\MTableWeb\obj\Debug\net6.0\MTableWeb.csproj.CopyComplete
+D:\Coures\PRN211\ProjectPRN\MTableWeb\obj\Debug\net6.0\MTableWeb.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\obj\Debug\net6.0\refint\MTableWeb.dll
+D:\Coures\PRN211\ProjectPRN\MTableWeb\obj\Debug\net6.0\MTableWeb.pdb
+D:\Coures\PRN211\ProjectPRN\MTableWeb\obj\Debug\net6.0\MTableWeb.genruntimeconfig.cache
+D:\Coures\PRN211\ProjectPRN\MTableWeb\obj\Debug\net6.0\ref\MTableWeb.dll

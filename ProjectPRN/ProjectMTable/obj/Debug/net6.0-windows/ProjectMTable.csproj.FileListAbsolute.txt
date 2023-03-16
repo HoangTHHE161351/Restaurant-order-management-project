@@ -1,0 +1,117 @@
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\ProjectMTable.exe
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\ProjectMTable.deps.json
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\ProjectMTable.runtimeconfig.json
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\ProjectMTable.dll
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\ProjectMTable.pdb
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Humanizer.dll
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lap trinh web\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\lap trinh web\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ProjectMTable.csproj.AssemblyReference.cache
+D:\lap trinh web\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ProjectMTable.Form1.resources
+D:\lap trinh web\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ProjectMTable.csproj.GenerateResource.cache
+D:\lap trinh web\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ProjectMTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\lap trinh web\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ProjectMTable.AssemblyInfoInputs.cache
+D:\lap trinh web\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ProjectMTable.AssemblyInfo.cs
+D:\lap trinh web\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ProjectMTable.csproj.CoreCompileInputs.cache
+D:\lap trinh web\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ProjectMTable.csproj.CopyComplete
+D:\lap trinh web\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ProjectMTable.dll
+D:\lap trinh web\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\refint\ProjectMTable.dll
+D:\lap trinh web\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ProjectMTable.pdb
+D:\lap trinh web\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ProjectMTable.genruntimeconfig.cache
+D:\lap trinh web\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ref\ProjectMTable.dll
+D:\lap trinh web\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ProjectMTable.AdminPage.resources
+D:\lap trinh web\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ProjectMTable.UserPage.resources
+D:\lap trinh web\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ProjectMTable.Thongtincanhan.resources
+D:\lap trinh web\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ProjectMTable.UDatban.resources
+D:\lap trinh web\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ProjectMTable.ATaiKhoan.resources
+D:\lap trinh web\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ProjectMTable.ADatBan.resources
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\ProjectMTable.exe
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\ProjectMTable.deps.json
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\ProjectMTable.runtimeconfig.json
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\ProjectMTable.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\ProjectMTable.pdb
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Humanizer.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ProjectMTable.csproj.AssemblyReference.cache
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ProjectMTable.ADatBan.resources
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ProjectMTable.AdminPage.resources
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ProjectMTable.ATaiKhoan.resources
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ProjectMTable.Form1.resources
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ProjectMTable.Thongtincanhan.resources
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ProjectMTable.UDatban.resources
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ProjectMTable.UserPage.resources
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ProjectMTable.csproj.GenerateResource.cache
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ProjectMTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ProjectMTable.AssemblyInfoInputs.cache
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ProjectMTable.AssemblyInfo.cs
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ProjectMTable.csproj.CoreCompileInputs.cache
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ProjectMTable.csproj.CopyComplete
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ProjectMTable.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\refint\ProjectMTable.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ProjectMTable.pdb
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ProjectMTable.genruntimeconfig.cache
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\obj\Debug\net6.0-windows\ref\ProjectMTable.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\appsettings.json
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Coures\PRN211\ProjectPRN\ProjectMTable\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll

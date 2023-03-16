@@ -1,0 +1,77 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MTableWeb
+build_property.RootNamespace = MTableWeb
+build_property.ProjectDir = D:\Coures\PRN211\ProjectPRN\MTableWeb\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Coures\PRN211\ProjectPRN\MTableWeb
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Coures/PRN211/ProjectPRN/MTableWeb/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Coures/PRN211/ProjectPRN/MTableWeb/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Coures/PRN211/ProjectPRN/MTableWeb/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Coures/PRN211/ProjectPRN/MTableWeb/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Coures/PRN211/ProjectPRN/MTableWeb/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Coures/PRN211/ProjectPRN/MTableWeb/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Coures/PRN211/ProjectPRN/MTableWeb/Views/Admin/Chitiet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2hpdGlldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Coures/PRN211/ProjectPRN/MTableWeb/Views/Admin/QLOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUUxPcmRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Coures/PRN211/ProjectPRN/MTableWeb/Views/Admin/QLTK.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUUxUSy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Coures/PRN211/ProjectPRN/MTableWeb/Views/Admin/TimKiemLich.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVGltS2llbUxpY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Coures/PRN211/ProjectPRN/MTableWeb/Views/Cus/Datban.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzXERhdGJhbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Coures/PRN211/ProjectPRN/MTableWeb/Views/Cus/Thongtin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzXFRob25ndGluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Coures/PRN211/ProjectPRN/MTableWeb/Views/Cus/TimKiemLich.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzXFRpbUtpZW1MaWNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Coures/PRN211/ProjectPRN/MTableWeb/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Coures/PRN211/ProjectPRN/MTableWeb/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-lmbunzifrh

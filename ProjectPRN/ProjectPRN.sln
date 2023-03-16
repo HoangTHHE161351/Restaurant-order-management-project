@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectMTable", "ProjectMTable\ProjectMTable.csproj", "{FA2D50B0-F31A-4676-85D4-E2271638CC7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTableWeb", "MTableWeb\MTableWeb.csproj", "{A0055AC3-620E-4A03-A684-2836426E6EBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA2D50B0-F31A-4676-85D4-E2271638CC7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA2D50B0-F31A-4676-85D4-E2271638CC7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA2D50B0-F31A-4676-85D4-E2271638CC7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA2D50B0-F31A-4676-85D4-E2271638CC7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0055AC3-620E-4A03-A684-2836426E6EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0055AC3-620E-4A03-A684-2836426E6EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0055AC3-620E-4A03-A684-2836426E6EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0055AC3-620E-4A03-A684-2836426E6EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1232409-3525-4875-BFF0-763DCD113784}
+	EndGlobalSection
+EndGlobal
